@@ -10,7 +10,6 @@ namespace project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("mgvf");
             Cat c = new Cat(true, true, 1, 4);
             Dog d = new Dog(true, true, 2, 4);
             Frog f = new Frog(false, false, 2, 4);
