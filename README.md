@@ -1,3 +1,0 @@
-# verisoft
-# verisoft
-# verisoftTask
